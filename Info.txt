@@ -1,0 +1,5 @@
+Student_id : 2313110963
+Student Name : Singha Traisombut
+Major : IT
+Level : 1
+Faculty : Infomation Technology 
