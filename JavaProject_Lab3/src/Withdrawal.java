@@ -30,6 +30,7 @@ public class Withdrawal {
 		else {
 			int bank1000 = withdrawMoney/1000;
 			int bank500  = withdrawMoney%1000/500;
+			int bank100  = withdrawMoney%500/100;
 			JOptionPane.showMessageDialog(null," You withdraw "+withdrawMoney+ "bath."+"\n1,000"+bank1000+""
 						+"\n500 = "+bank500+""
 						+"\n100 = "+bank100);
