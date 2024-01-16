@@ -1,4 +1,4 @@
 ID : 2313110963
 Name-Surname : Singha Traisombut
-Date : Jan-09-2024
-Toppic :  Class and Object
+Date : Jan-16-2024
+Toppic : Encapsulation   Concept
